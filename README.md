@@ -1,3 +1,5 @@
+# A simple tool to help organize and keep track of what you want to bring with you on a trip 🌴
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
